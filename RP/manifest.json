@@ -1,17 +1,17 @@
 {
   "format_version": 2,
   "header": {
-    "name": "たまごのぼうし RP",
-    "description": "たまご（＋からあげ）のぼうしアドオン\nPack by YuuhaLand\nSkin by Xeno6440",
+    "name": "たまごのぼうし v1.0.1 RP",
+    "description": "たまごのぼうしアドオン\nPack by YuuhaLand\nSkin by Xeno6440",
     "uuid": "2ce0c38a-f140-4743-b049-b7a23e7b1a84",
-    "version": [ 1, 0, 0 ],
+    "version": [ 1, 0, 1 ],
     "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "3f2a4c9f-4252-4b8c-b9cc-83635e717122",
-      "version": [ 1, 0, 0 ]
+      "version": [ 1, 0, 1 ]
     }
   ]
 }

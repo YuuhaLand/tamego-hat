@@ -1,17 +1,17 @@
 {
   "format_version": 2,
   "header": {
-    "name": "たまごのぼうし BP",
-    "description": "たまご（＋からあげ）のぼうしアドオン\nPack by YuuhaLand\nSkin by Xeno6440",
+    "name": "たまごのぼうし v1.0.1 BP",
+    "description": "たまごのぼうしアドオン\nPack by YuuhaLand\nSkin by Xeno6440",
     "uuid": "89d3ec07-f4eb-4e32-ae5f-e243ee61e51c",
-    "version": [ 1, 0, 0 ],
+    "version": [ 1, 0, 1 ],
     "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
     {
       "type": "data",
       "uuid": "74bbea66-0f98-48b0-b8a6-cb3c3095277e",
-      "version": [ 1, 0, 0 ]
+      "version": [ 1, 0, 1 ]
     }
   ]
 }

@@ -15,6 +15,9 @@
     },
     "karaage_hat": {
       "textures": "textures/items/karaage_hat"
+    },
+    "chicken_hat": {
+      "textures": "textures/items/chicken_hat"
     }
   }
 }
